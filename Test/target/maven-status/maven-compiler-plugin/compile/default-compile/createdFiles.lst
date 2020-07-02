@@ -1,0 +1,7 @@
+com\test\TestAppliaction.class
+com\test\service\UserService.class
+com\test\service\impl\UserServiceImpl.class
+com\test\config\MybatisPlusConfig.class
+com\test\SysUser.class
+com\test\dao\SysUserMapper.class
+com\test\contorller\TestController.class
